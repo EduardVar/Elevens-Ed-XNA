@@ -1,2 +1,2 @@
 # Elevens-Ed-XNA
-XNA Game Studio 4.0 based on Microsoft's .NET framework that lets user play a game of Elevens!
+To try it out, download the Release Build folder and run the .exe (needs the content folder in same directory to work)

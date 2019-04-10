@@ -1,5 +1,5 @@
 # Elevens-Ed-XNA
-To try it out, download the Release Build folder and run the .exe (needs the content folder in same directory to work).
+To try it out, download the Release Build zip folder, extract it, and run the .exe (needs the content folder in same directory to work).
 Windows is required to run it.
 
 # Instructions:
